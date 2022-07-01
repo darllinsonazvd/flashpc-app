@@ -1,7 +1,7 @@
 <p align="center">
- <img src="https://img.shields.io/static/v1?label=PRs&message=Welcome&color=F75A0B&labelColor=000000" alt="PRs welcome!" />
+ <img src="https://img.shields.io/static/v1?label=license&message=MIT&color=8257E5&labelColor=0A1033" />
 
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=F75A0B&labelColor=000000">
+  <img alt="License" src="https://img.shields.io/static/v1?label=Unifacisa&message=Sistemas%20de%20Informa%C3%A7%C3%A3o&color=8257E5&labelColor=0A1033">
 </p>
 
 <br>

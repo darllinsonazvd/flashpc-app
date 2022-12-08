@@ -30,9 +30,7 @@ Utilitários
 
 ## 💻 Projeto
 
-O projeto foi desenvolvido para a 3ª entrega do projeto de Marketing Digital do curso de Sistemas de Informação da Unifacisa.
-
-O FlashPC foi desenvolvido com o objetivo de potencializar a produtividade de milhares de jogadores profissionais e desenvolvedores, trazendo uma ferramenta completa que auxilia na otimização do sistema operacional para desktops mais utilizado no mundo, o Windows.
+O FlashPC foi desenvolvido com o objetivo de potencializar a produtividade de milhares de jogadores profissionais e desenvolvedores, trazendo uma ferramenta completa que auxilia na otimização do sistema operacional para desktops mais utilizado no mundo, o Windows e uma página onde você pode ter o controle de todas as suas atividades no dia a dia do trabalho, sendo desenvolvedor ou gamer _(quem sabe até os dois 🤷‍♂️🤷‍♀️)_.
 
 Você pode visitar o site [clicando aqui](https://darllinsonazvd.github.io/flashpc-app/)
 

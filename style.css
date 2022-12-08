@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;700&display=swap');
 
 /* ================- RESET -================ */
 * {
@@ -38,8 +38,8 @@ img {
   --title-font-size: 1.875rem;
   --subtitle-font-size: 1rem;
 
-  --title-font: 'Roboto', sans-serif;
-  --body-font: 'Roboto', sans-serif;
+  --title-font: 'Inter', sans-serif;
+  --body-font: 'Inter', sans-serif;
 }
 
 /* ================- BASE -================ */
